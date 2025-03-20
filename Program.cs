@@ -1,2 +1,8 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System
+    class program
+{
+    static void main(String[] args)
+    {
+        Console.WriteLine("welcome to AA insurance")
+            }
+}
